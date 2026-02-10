@@ -1,0 +1,9 @@
+.sanvalentin {
+    position: absolute;
+    width: 90%;
+    font-size: 2rem;
+    font-family: Te Amo¨;
+    height: var(--later-love);
+    transform: translate(-50%);
+    background: var(--latter);
+}
